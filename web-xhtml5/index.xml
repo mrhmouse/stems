@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>index.xml</title>
+    <link title="Light (default)" rel="stylesheet" href="themes/light.css"/>
+    <link title="Dark" rel="alternate stylesheet" href="themes/dark.css"/>
+  </head>
+  <body>
+    <h1>index.xml</h1>
+    <p>is this an app? or maybe an article? who knows :)</p>
+    <script src="scripts/index.js"/>
+  </body>
+</html>
