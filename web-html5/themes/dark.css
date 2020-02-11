@@ -1,0 +1,6 @@
+body {
+    --fg: #1f3;
+    --bg: #001;
+    --font-family: Liberation Mono Regular, Consolas, monospace;
+    --font-size: 18px;
+}
